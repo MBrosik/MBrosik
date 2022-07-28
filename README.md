@@ -64,10 +64,8 @@ Other
 </table>
 
 
-
-  
+## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBrosik&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MBrosik&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
---!>
+
