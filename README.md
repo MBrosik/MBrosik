@@ -65,7 +65,18 @@ Other
 
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBrosik&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MBrosik&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats"  >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBrosik&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+</a>
+ 
+ <!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=MBrosik&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117"/>
+</a>
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://activity-graph.herokuapp.com/graph?username=MBrosik&bg_color=0D1117&color=ffffff&line=5BCDEC&point=FFFFFF&hide_border=true&count_private=true"/>
+</a>
