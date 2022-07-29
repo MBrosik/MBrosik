@@ -68,7 +68,7 @@ Other
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"  >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBrosik&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBrosik&langs_count=10&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
 </a>
  
  <!--
