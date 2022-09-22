@@ -3,8 +3,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=MBrosik)
 
 My name is Michał and I'm 20 years old. I've started learning about IT when I was 15 years old. 
-- 👍 I like programming. I feel comfortable in creating 🕸️ websites, 📱 mobile applications, 🕹️ games
-- 💺 In my spare time: I try to learn something about machine learning
+- 🖱️ I like programming. I feel comfortable in creating 🕸️ websites, 📱 mobile applications, 🕹️ games
+- 📖 In my spare time: I try to learn something about machine learning
 
 ## Technologies
 
