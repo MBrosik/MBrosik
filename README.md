@@ -33,7 +33,7 @@ Other
 <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge" /> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" /> <br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/C Sharp-239120?logo=C Sharp&logoColor=white&style=for-the-badge" />
 
