@@ -5,8 +5,6 @@
 My name is Michał and I'm 20 years old. I've started learning about IT when I was 15 years old. 
 - 🖱️ I like programming. I feel comfortable in creating 🕸️ websites, 📱 mobile applications, 🕹️ games
 - ⏰ In my spare time: I try to learn something about machine learning
-- 📖 Some of my projects are also avalaible here -> [mbrosik.github.io](https://mbrosik.github.io/)
-- 🔍 Some interesting article and related fork: [article](https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent)/[fork](https://github.com/MBrosik/stable-diffusion)
 
 ## Technologies
 
@@ -63,6 +61,14 @@ Other
 
 </tr>
 </table>
+
+
+## Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats"  >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBrosik&langs_count=10&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+</a>
+
+
 
 <!---
 ## Github Stats
