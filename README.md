@@ -49,6 +49,8 @@ Other
   <img src="https://img.shields.io/badge/WebGL-990000?logo=WebGL&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/Kotlin-black.svg?&style=for-the-badge&logo=kotlin&logoColor=B322E9" /> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge" />  
